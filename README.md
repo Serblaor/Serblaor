@@ -5,11 +5,11 @@ Soy un Full-Stack web Developer entusiasta por el aprendizaje y con un particula
 
 ⚡ Fun fact: trabajé por 3 años ayudando a personas con problemas de adicción y en condición de habitabilidad en calle, dónde ayudé a multiples personas a superar esta condición, trabajé con multiples profesionales y en diferentes espacios, fortaleciendo mis habilidades blandas y creciendo personalmente.
 
-📫 Como contactarme:
+###   - 📫 Como contactarme:
 
-Email: sergio.bo7@hotmail.com
+  ### Email: sergio.bo7@hotmail.com
 
-Linkedin: https://www.linkedin.com/in/sergio-blanco-ordo%C3%B1ez-935928259/
+  ### Linkedin:  https://www.linkedin.com/in/sergio-blanco-ordo%C3%B1ez-935928259/
 
 
 
