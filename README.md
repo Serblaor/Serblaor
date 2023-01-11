@@ -13,7 +13,7 @@ Linkedin: https://www.linkedin.com/in/sergio-blanco-ordo%C3%B1ez-935928259/
 
 
 
-Languajes y herramientas:
+### Languajes y herramientas:
     
 | JavaScript | 
 
