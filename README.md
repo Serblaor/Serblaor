@@ -9,7 +9,7 @@ Soy un Full-Stack web Developer entusiasta por el aprendizaje y con un particula
 
   ### Email: sergio.bo7@hotmail.com
 
-  ### Linkedin:  https://www.linkedin.com/in/sergio-blanco-ordo%C3%B1ez-935928259/
+  ### Linkedin:  https://www.linkedin.com/in/serblaor7/
 
 
 
