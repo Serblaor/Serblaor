@@ -35,7 +35,10 @@ Soy un Full-Stack web Developer entusiasta por el aprendizaje y con un particula
  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
 </p>
    
+## ❤️ Let's get connected:
 
+<p><a href="https://www.linkedin.com/in/serblaor7/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/sergio.bo7" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+</p>
   
 
 <!--
