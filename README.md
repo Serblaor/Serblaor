@@ -1,7 +1,7 @@
 ### 👋 Hola, soy Sergio 
-Soy un Full-Stack web Developer entusiasta por el aprendizaje y con un particular interés en el diseño y desarrollo de nuevas páginas y aplicaciones web, así como también en la lógica aplicada en la programación.
+Soy Full-Stack web Developer entusiasta por el aprendizaje y con un particular interés en el diseño y desarrollo de nuevas páginas y aplicaciones web, así como también en la lógica aplicada en la programación.
 
-🌱 Actualmente estoy aprendiendo TypeScript y NextJs.
+🌱 Actualmente estoy aprendiendo TypeScript, Angular y NextJs.
 
 ⚡ Fun fact: trabajé por 3 años ayudando a personas con problemas de adicción y en condición de habitabilidad en calle, dónde ayudé a multiples personas a superar esta condición, trabajé con multiples profesionales y en diferentes espacios, fortaleciendo mis habilidades blandas y creciendo personalmente.
 
